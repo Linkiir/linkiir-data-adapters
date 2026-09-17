@@ -1,0 +1,9 @@
+{
+  "format": "linkiir.catalog",
+  "format_version": 1,
+  "id": "lkdata",
+  "name": "Linkiir Data Adapters",
+  "publisher": "Linkiir Inc",
+  "description": "Catalog of relational, NoSQL, warehouse and BI adapters",
+  "min_grid_version": ""
+}
